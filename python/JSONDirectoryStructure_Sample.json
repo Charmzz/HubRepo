@@ -1,0 +1,43 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "name": "DecendentDoc.txt",
+          "type": "file"
+        }
+      ],
+      "name": "Fldr_1",
+      "type": "folder"
+    },
+    {
+      "children": [],
+      "name": "Fldr_2",
+      "type": "folder"
+    },
+    {
+      "children": [
+		{
+          "name": "Deep1Doc.txt",
+          "type": "file"
+		},
+		{
+          "name": "Deep2Doc.txt",
+          "type": "file"
+        },
+		{
+          "name": "Deep3Doc.txt",
+          "type": "file"
+        }
+	  ],
+      "name": "Fldr_3",
+      "type": "folder"
+    },
+    {
+      "name": "README.md",
+      "type": "file"
+    }
+  ],
+  "name": "JSONdir",
+  "type": "folder"
+}
